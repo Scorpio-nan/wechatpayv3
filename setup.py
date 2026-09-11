@@ -16,6 +16,7 @@ setup(
     keywords="python sdk wechatpay api v3 微信支付",
     url="https://github.com/minibear2021/wechatpayv3",
     packages=find_packages(),
+    python_requires=">=3.10",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Topic :: Office/Business :: Financial",
